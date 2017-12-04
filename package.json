@@ -2,6 +2,7 @@
   "name": "reactiiive",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://juliarainbowx.github.io/react-todo",
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
