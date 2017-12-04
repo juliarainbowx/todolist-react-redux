@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://juliarainbowx.github.io/react-todo",
   "dependencies": {
+    "gh-pages": "^1.1.0",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-redux": "^5.0.5",
@@ -15,6 +16,8 @@
     "react-scripts": "1.0.9"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
