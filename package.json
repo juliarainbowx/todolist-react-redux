@@ -2,7 +2,7 @@
   "name": "reactiiive",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://juliarainbowx.github.io/react-todo",
+  "homepage": "https://juliarainbowx.github.io/todolist-react-redux",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^15.6.1",
